@@ -7,7 +7,7 @@ A complete roadmap for becoming a Full Stack Web Developer.
 
 This roadmap is beginner-friendly and covers:
 
-Frontend Development
+Frontend Development<br>
 Backend Development
 Databases
 Version Control
