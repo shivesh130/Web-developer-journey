@@ -14,6 +14,7 @@ Version Control<br>
 Deployment<br>
 Projects<br>
 Interview Preparation<br>
+
 📌 1. Learn the Basics of the Internet
 Before coding websites, understand how the web works.
 
@@ -24,6 +25,7 @@ DNS<br>
 Browsers and Servers<br>
 Hosting and Domains<br>
 Client vs Server<br>
+
 🎨 2. Frontend Development
 
 Frontend is the part users can see and interact with.
