@@ -8,23 +8,22 @@ A complete roadmap for becoming a Full Stack Web Developer.
 This roadmap is beginner-friendly and covers:
 
 Frontend Development<br>
-Backend Development
-Databases
-Version Control
-Deployment
-Projects
-Interview Preparation
+Backend Development<br>
+Databases<br>
+Version Control<br>
+Deployment<br>
+Projects<br>
+Interview Preparation<br>
 📌 1. Learn the Basics of the Internet
-
 Before coding websites, understand how the web works.
 
 Topics
-How the Internet works
-What is HTTP & HTTPS
-DNS
-Browsers and Servers
-Hosting and Domains
-Client vs Server
+How the Internet works<br>
+What is HTTP & HTTPS<br>
+DNS<br>
+Browsers and Servers<br>
+Hosting and Domains<br>
+Client vs Server<br>
 🎨 2. Frontend Development
 
 Frontend is the part users can see and interact with.
@@ -33,102 +32,108 @@ Frontend is the part users can see and interact with.
 
 Learn the structure of web pages.
 
-Topics
-HTML Tags
-Forms
-Tables
-Semantic HTML
-Media Tags
-Input Types
-Practice Projects
-Personal Portfolio
-Resume Website
-Registration Form
+Topics<br>
+HTML Tags<br>
+Forms<br>
+Tables<br>
+Semantic HTML<br>
+Media Tags<br>
+Input Types<br>
+Practice Projects<br>
+Personal Portfolio<br>
+Resume Website<br>
+Registration Form<br>
+
 🎨 CSS
 
 Used for styling websites.
 
-Topics
-Selectors
-Colors
-Flexbox
-Grid
-Positioning
-Animations
-Responsive Design
-Media Queries
-Learn
-CSS Variables
-Transitions
-Hover Effects
-Practice Projects
-Landing Page
-Responsive Navbar
-Photo Gallery
+Topics<br>
+Selectors<br>
+Colors<br>
+Flexbox<br>
+Grid<br>
+Positioning<br>
+Animations<br>
+Responsive Design<br>
+Media Queries<br>
+Learn<br>
+CSS Variables<br>
+Transitions<br>
+Hover Effects<br>
+Practice Projects<br>
+Landing Page<br>
+Responsive Navbar<br>
+Photo Gallery<br>
+
 ⚡ JavaScript
 
 Makes websites interactive.
 
-Core Concepts
-Variables
-Data Types
-Operators
-Functions
-Arrays
-Objects
-Loops
-DOM Manipulation
-Events
-ES6+
-Async/Await
-Fetch API
-Advanced Topics
-Closures
-Callbacks
-Promises
-Local Storage
-Modules
-Practice Projects
-Calculator
-To-Do App
-Weather App
-Quiz App
+Core Concepts<br>
+Variables<br>
+Data Types<br>
+Operators<br>
+Functions<br>
+Arrays<br>
+Objects<br>
+Loops<br>
+DOM Manipulation<br>
+Events<br>
+ES6+<br>
+Async/Await<br>
+Fetch API<br>
+Advanced Topics<br>
+Closures<br>
+Callbacks<br>
+Promises<br>
+Local Storage<br>
+Modules<br>
+Practice Projects<br>
+Calculator<br>
+To-Do App<br>
+Weather App<br>
+Quiz App<br>
+
 ⚛️ 3. Frontend Frameworks
+
 React.js
 
 A popular JavaScript library for building UI.
 
-Topics
-Components
-Props
-State
-Hooks
-Routing
-API Integration
-Context API
-Redux Basics
+Topics<br>
+Components<br>
+Props<br>
+State<br>
+Hooks<br>
+Routing<br>
+API Integration<br>
+Context API<br>
+Redux Basics<br>
 
 Build Projects
-Blog App
-E-commerce UI
-Chat Application
+
+Blog App<br>
+E-commerce UI<br>
+Chat Application<br>
 
 🛠️ 4. Version Control
-Git & GitHub
-Git Topics
-git init
-git add
-git commit
-git push
-git pull
-git branch
-git merge
-GitHub Topics
-Repository Creation
-README.md
-Pull Requests
-Forking
-GitHub Pages
+
+Git & GitHub<br>
+Git Topics<br>
+git init<br>
+git add<br>
+git commit<br>
+git push<br>
+git pull<br>
+git branch<br>
+git merge<br>
+GitHub Topics<br>
+Repository Creation<br>
+README.md<br>
+Pull Requests<br>
+Forking<br>
+GitHub Pages<br>
 
 🖥️ 5. Backend Development
 
@@ -144,111 +149,74 @@ Flask
 
 Backend Topics
 
-REST API
-Authentication
-JWT
-CRUD Operations
-Middleware
-File Uploads
-Environment Variables
+REST API<br>
+Authentication<br>
+JWT<br>
+CRUD Operations<br>
+Middleware<br>
+File Uploads<br>
+Environment Variables<br>
 
 🗄️ 6. Databases
-SQL Databases
-MySQL
-PostgreSQL
+
+SQL Databases<br>
+MySQL<br>
+PostgreSQL<br>
 Topics
-Tables
-Queries
-Joins
-Relationships
-CRUD
+Tables<br>
+Queries<br>
+Joins<br>
+Relationships<br>
+CRUD<br>
 
 ☁️ 7. Deployment
 
 Learn how to host your applications.
 
-Platforms
-Vercel
-Netlify
-Render
-Railway
-GitHub Pages
-Learn
-Environment Variables
-Domain Setup
-CI/CD Basics
+Platforms<br>
+Vercel<br>
+Netlify<br>
+Render<br>
+Railway<br>
+GitHub Pages<br>
+Learn<br>
+Environment Variables<br>
+Domain Setup<br>
+CI/CD Basics<br>
 
 🔐 8. Authentication & Security
 
-Topics
-Password Hashing
-JWT Authentication
-OAuth Basics
-HTTPS
-CORS
-Secure APIs
+Topics<br>
+Password Hashing<br>
+JWT Authentication<br>
+OAuth Basics<br>
+HTTPS<br>
+CORS<br>
+Secure APIs<br>
 
 📱 9. Responsive Design
 
 Make websites work on all devices.
 
-Learn
-Mobile First Design
-Flexbox
-CSS Grid
-Media Queries
+Learn<br>
+Mobile First Design<br>
+Flexbox<br>
+CSS Grid<br>
+Media Queries<br>
 
 🚀 10. Advanced Topics
 
-Optional but Recommended
-TypeScript
-Next.js
-Docker
-WebSockets
-GraphQL
-Testing
-System Design
+Optional but Recommended<br>
+TypeScript<br>
+Next.js<br>
+Docker<br>
+WebSockets<br>
+GraphQL<br>
+Testing<br>
+System Design<br>
 
-📂 11. Recommended Project Ideas
-Beginner Projects
-Calculator
-Portfolio Website
-To-Do List
-Login Page
-Intermediate Projects
-Weather App
-Blog Website
-Expense Tracker
-Notes App
-Advanced Projects
-E-commerce Website
-Social Media App
-Video Streaming Platform
-Real-time Chat App
-
-📘 12. DSA for Developers
-
-Learn Data Structures & Algorithms for interviews.
-
-Topics
-Arrays
-Strings
-Linked List
-Stack
-Queue
-Trees
-Graphs
-Sorting
-Searching
-
-🧠 13. Soft Skills
-
-Communication
-Problem Solving
-Team Collaboration
-Debugging Skills
-Time Management
 🛤️ Learning Path
+
 Internet Basics
       ↓
 HTML
